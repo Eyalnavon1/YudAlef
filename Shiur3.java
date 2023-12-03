@@ -7,3 +7,4 @@ public static void main(String[] args)
         int result = (number > second_number) ? second_number : number;
         System.out.println(result); 
 }
+,mbmbmhnvm
